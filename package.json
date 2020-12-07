@@ -1,0 +1,28 @@
+{
+  "name": "sass-starter-template",
+  "version": "1.0.0",
+  "description": "Starter sass project with gulp and browser-sync to ease website designing.",
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakho10/sass-starter-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vakho10/sass-starter-template/issues"
+  },
+  "homepage": "https://github.com/vakho10/sass-starter-template#readme"
+}
